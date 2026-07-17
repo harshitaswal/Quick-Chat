@@ -3,6 +3,7 @@ import { imagesDummyData } from '../assets/assets'
 import { ChatContext } from '../../context/ChatContext'
 import { AuthContext } from '../../context/AuthContext'
 import { useState } from 'react'
+import assets from "../assets/assets";
 
 const RightSidebar = () => {
 

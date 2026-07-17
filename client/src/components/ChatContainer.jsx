@@ -3,6 +3,7 @@ import assets, { messagesDummyData } from '../assets/assets'
 import { formatMessageTime } from '../lib/utils'
 import { ChatContext } from '../../context/ChatContext'
 import { AuthContext } from '../../context/AuthContext'
+import assets from "../assets/assets";
 
 const ChatContainer = () => {
 
